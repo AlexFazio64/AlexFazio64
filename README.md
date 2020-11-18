@@ -9,10 +9,10 @@ Graduating from [University of Calabria](https://www.mat.unical.it/ComputerScien
 ## 🏢 I’m looking to work in:
 ### Game development industry
 ## 📫 How to reach me:
->-  [Twitter](https://www.twitter.com/AlexFazio64)
->-  [Steam](https://www.steamcommunity.com/id/af64)
->-  [Reddit](https://www.reddit.com/user/AlexFazio64)
 >-  Email
+>-  [Steam](https://www.steamcommunity.com/id/af64)
+>-  Twitter
+>-  [Reddit](https://www.reddit.com/user/AlexFazio64)
 ## ⚡ Fun facts: 
 >- I love playing videogames, and I study them after I complete them.
 >- I enjoy watching and analyzing movies.
