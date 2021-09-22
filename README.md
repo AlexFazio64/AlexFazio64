@@ -1,17 +1,18 @@
 # About me
 
 ## 🔭 I’m currently working on 
-Graduating from [University of Calabria](https://www.mat.unical.it/ComputerScience/HomePage)
+Graduating at [University of Calabria](https://www.mat.unical.it/ComputerScience/HomePage)
 ## 🌱 I’m currently learning:
-- [x] C++
+- [x] C++ 14
 - [x] Java
 - [x] Python
-- [x] JavaScript
+- [x] Vanilla JavaScript
+- [ ] React.js / Node.js
 - [x] HTML / CSS
 - [x] Perl
 - [ ] Android Programming
 ## 🏢 I’m looking to work in:
-### Game development industry
+### Software development industry
 ## 📫 How to reach me:
 >-  Email
 >-  [Steam](https://www.steamcommunity.com/id/af64)
