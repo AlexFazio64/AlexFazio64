@@ -17,16 +17,14 @@ Graduating at [University of Calabria](https://www.mat.unical.it/ComputerScience
 - Typescript
 - React
 - Android Programming
-## 🏢 I’m looking to work in:
-### Software development industry
-### Game development industry
-## 📫 How to reach me:
->-  Email
->-  [Steam](https://www.steamcommunity.com/id/af64)
->-  Twitter
->-  [Reddit](https://www.reddit.com/user/AlexFazio64)
+## 🏢 I’m looking to work as:
+### Software developer / engineer
+#### Game developer
+#### Frontend developer
+##### Full-stack developer
+## 📫 Reach out to me via email
 ## ⚡ Fun facts: 
->- I love playing videogames, and I study them after I complete them.
->- I enjoy watching and analyzing movies.
->- I like many genres of [music](https://open.spotify.com/user/mspuzyoc41nbeiylhmx3zzfvs/playlists).
+>- I enjoy watching and analyzing movies
+>- Avid singleplayer games [enjoyer](https://www.steamcommunity.com/id/af64)
+>- I like many genres of [music](https://open.spotify.com/user/mspuzyoc41nbeiylhmx3zzfvs/playlists)
 ##### Check out my pinned projects
