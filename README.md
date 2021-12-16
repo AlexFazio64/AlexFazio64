@@ -8,13 +8,13 @@ Graduating at [University of Calabria](https://www.mat.unical.it/ComputerScience
 - Python 3
 - Perl
 - JavaScript
+- Typescript
 - HTML
 - CSS
 - NoSQL / SQL db
 - Node.js
 ## 🌱 I’m currently learning:
 - Svelte
-- Typescript
 - React
 - Android Programming
 ## 🏢 I’m looking to work as:
