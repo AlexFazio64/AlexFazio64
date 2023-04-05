@@ -1,21 +1,23 @@
 # About me
 I graduated as a Computer Science Bachelor at University of Calabria  
-Currently enrolled in a Master in Data Science
-## 📑 I’m fluent in:
-- C++ 11
-- Java 8/11
-- Python 3
-- Perl
-- JavaScript / Typescript
-- HTML
-- CSS
-- NoSQL / SQL
-- Node.js
+Currently enrolled in a Masters Degree in Data Science
+
+## </> Fluent in
+- C++
+- Java
+- Python
 - Svelte
-## 🏢 I’m looking to work as:
-### Software developer / engineer
-#### Frontend developer
-#### Full-stack developer
-##### Game developer
+- Typescript
+- Javascript
+- HTML & CSS
+- NoSQL & SQL
+- ASP
+- Perl
+- Markdown & LaTeX
+
+## 👔 Preferred Job Positions
+### Full-stack developer
+### Frontend developer
+#### Game developer
 
 ### 📫 Reach out to me via email
