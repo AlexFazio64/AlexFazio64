@@ -14,6 +14,9 @@ Currently enrolled in a Masters Degree in Data Science
 - ASP
 - Perl
 - Markdown & LaTeX
+- Hadoop (hdfs, hive, hbase)
+- Spark
+- Tensorflow
 
 ## 👔 Preferred Job Positions
 ### Full-stack developer
