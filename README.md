@@ -1,6 +1,5 @@
 # About me
-I graduated as a Computer Science Bachelor at University of Calabria  
-Currently enrolled in a Masters Degree in Data Science
+Computer Science Bachelor and Artificial Intelligence and Data Science Major at University of Calabria  
 
 ## </> Fluent in
 - C++
@@ -17,10 +16,3 @@ Currently enrolled in a Masters Degree in Data Science
 - Hadoop (hdfs, hive, hbase)
 - Spark
 - Tensorflow
-
-## 👔 Preferred Job Positions
-### Full-stack developer
-### Frontend developer
-#### Game developer
-
-### 📫 Reach out to me via email
